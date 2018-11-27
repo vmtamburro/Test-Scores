@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1543336318 source:e:\test scores\main.cpp
+	<iostream>
+	"prototype.h"
+
+1543336254 source:e:\test scores\definitions.cpp
+	<iostream>
+
+1543336346 e:\test scores\prototype.h
+	<iostream>
+
